@@ -1,0 +1,143 @@
+.heading1 {
+    color: #040404;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.heading2{
+    color: #492A2A;
+    font-family: "Work Sans";
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.heading3 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: SansSerifBookFLF;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 62px;
+}
+.heading4 {
+    color: #492A2A;
+    font-family: "Work Sans";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.text_40 {
+    color: #171717;
+    font-family: SansSerifBookFLF;
+    font-size: 41.786px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: normal;
+}
+
+.text_36 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: SansSerifBookFLF;
+    font-size: 37.308px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: 33.81px;
+}
+.text_34{
+    color: #171717;
+    font-family: SansSerifBookFLF;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: normal;
+}
+.text_32 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 62px; /* 193.75% */
+}
+.text_28 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px; 
+}
+.text_24{
+    color: #7D7D7D;
+    font-family: "Work Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+}
+.text_22 {
+    color: #000;
+    text-align: right;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 32px; 
+}
+.text_20 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px; 
+}
+.text_16 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text_14 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: "Work Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+.text_13 {
+    color: #000;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: SansSerifBookFLF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 550;
+    line-height:normal;
+}

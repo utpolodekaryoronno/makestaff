@@ -1,0 +1,741 @@
+@media all and (max-width: 1300px){
+    /* Staf login page css Start */
+    .staf_form::before {
+        right: 40px;
+    }
+    .staf_form::after {
+        left: 40px;
+    }
+
+    /* Message HR and Employee Page CSS Start*/
+    /* Overall result Page CSS Start */
+    .left_side .left_all_content {
+        padding: 30px 24px 95px 35px;
+    }
+    .right_content {
+        padding: 48px 30px 100px 30px;
+    }
+    /* Notify Candidate Page Css Start */
+    
+}
+@media all and (max-width: 1199px){
+    /* Staf login page css Start */
+    .staf_form::before {
+        right: -10px !important;
+    }
+    .staf_form::after {
+        left: -10px !important;
+    }
+    .staf_details {
+        padding: 60px 0 30px 0;
+    }
+    .staf_details .text_16 {
+        padding-bottom: 15px;
+    }
+    .staf_hero_img {
+        max-width: 230px;
+    }
+
+     /* Add Question Page css start */
+
+     .about_right_side_content .text_28 {
+        font-size: 24px;
+        line-height: 1.3;
+    }
+    .about_right_side_content .text_18 {
+        line-height: 1.3;
+        padding: 40px 0 30px 0;
+    }
+
+    /* Message HR and Employee Page CSS Start*/
+    .message_hr_left_all_content {
+        padding: 0 40px;
+    }
+    .message_hr_all_content {
+        padding: 48px 24px 96px 24px;
+    }
+    /* Overall result Page CSS Start */
+    .overall_left_content .text_32 {
+        font-size: 26px;
+    }
+    .overall_left_content .text_20 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .overall_content {
+        gap: 8px;
+    }
+    .date {
+        padding-left: 10px;
+    }
+    .job_tittle {
+        padding-right: 10px;
+    }
+    .overall_right_content .text_18 {
+        font-size: 14px;
+    }
+    .excellent_header_left .text_32 {
+        font-size: 28px;
+    }
+    .hero_img {
+        max-width: 250px;
+        padding: 35px 0 30px 0;
+    }
+    .hero_img .tittle {
+        font-size: 26px;
+        padding-top: 20px;
+    }
+    .hero_img .name {
+        font-size: 32px;
+        padding-top: 10px;
+    }
+    .qualified_btns {
+        padding: 30px 0 0 0;
+    }
+    .left_side .left_all_content {
+        padding: 30px 24px 34px 70px;
+    }
+    .history_left_con {
+        gap: 10px;
+    }
+    .history_date_time {
+        gap: 10px;
+    }
+    .history_left_con .person_img {
+        width: 40px;
+        height: 40px;
+    }
+    .history_left_con .text_14 {
+        font-size: 13px;
+        max-width: 230px;
+    }
+    .excellent_area .text_14 {
+        padding-top: 8px;
+    }
+    /* Notify Candidate Page Css Start */
+    .top_shape {
+        max-width: 157px;
+        top: 12%;
+        right: 10%;
+    }
+    .qualified {
+        right: -25px;
+    }
+    .notyfy_hero_img .text_30 {
+        font-size: 26px;
+        padding: 45px 0 30px 0;
+    }
+    .notify_bottom_area {
+        padding-top: 100px;
+    }
+}
+@media all and (max-width: 991px){
+    /* Staf login page css Start */
+    .staf_login {
+        grid-template-columns: 1fr;
+    }
+    .staf_form::before {
+        right: 100px !important;
+    }
+    .staf_form::after {
+        left: 100px !important;
+    }
+    .staf_contents .text_30 {
+        font-size: 26px;
+        
+    }
+    .staf_contents .heading3 {
+        font-size: 32px;
+    }
+    .staf_contents .text_28 {
+        font-size: 20px;
+        padding: 27px 0 40px 0;
+    }
+
+    /* Add Question Page css start */
+     .about_all_content {
+        padding: 48px 24px 0 24px;
+    }
+    .about_right_side_content .text_28 {
+        font-size: 20px;
+    }
+
+    /* Message HR and Employee Page CSS Start*/
+    .message_hr {
+        grid-template-columns: 1fr;
+    }
+    .message_hr_left_all_content {
+        padding: 0 24px;
+    }
+    .back_btn_area {
+        padding: 38px 0 43px 0;
+    }
+    .message_dashboard_content .text_28 {
+        font-size: 26px;
+        max-width: 500px;
+    }
+    .dashboard_content_boxs {
+        gap: 46px 20px;
+        padding: 50px 0;
+    }
+    .dasboard_single_box .text_48 {
+        font-size: 44px;
+        line-height: 1.3;
+    }
+    .timmer_text .text_48 {
+        font-size: 44px;
+        line-height: 1.3;
+    }
+    /* Overall result Page CSS Start */
+    .overall_wrapper {
+        display: grid;
+        grid-template-columns:  1fr;
+    }
+    /* Notify Candidate Page Css Start */
+    .notyfy_hero_img .text_30 {
+        font-size: 20px;
+        padding: 45px 0 24px 0;
+    }
+    .notyfy_hero_img .text_56 {
+        font-size: 50px;
+    }
+    .notify_content {
+        padding: 35px 0 50px 0;
+    }
+    .notify_content .text_32 {
+        font-size: 28px;
+    }
+    .notify_bottom_area {
+        padding-top: 70px;
+    }
+}
+@media all and (max-width: 767px){
+    /* Staf login page css Start */
+    .staf_right_headder {
+        justify-content:space-between;
+    }
+    .staf_logo{
+        display: block;
+    }
+    .staf_contents .text_30 {
+        font-size: 20px;
+        padding: 40px 0 25px 0;
+    }
+    .staf_contents .heading3 {
+        font-size: 28px;
+    }
+    .staf_contents .text_28 {
+        font-size: 18px;
+        padding: 20px 0 30px 0;
+        line-height: normal;
+    }
+    .staf_contents .text_16 {
+        font-size: 14px;
+    }
+    .staf_details {
+        padding: 40px 0 30px 0;
+    }
+    .staf_left_all_content {
+        padding: 70px 24px 100px 24px;
+    }
+    .staf_right_content {
+        padding: 21px 24px 55px 24px;
+    }
+    .staf_logo {
+        max-width: 120px;
+    }
+    .staf_details .text_32 {
+        font-size: 24px;
+        line-height: 1.3;
+        padding-bottom: 15px;
+    }
+    .staf_form::before {
+        right: 70px !important;
+    }
+    .staf_form::after {
+        left: 70px !important;
+    }
+    .staf_google {
+        margin-top: 42px !important;
+    }
+    .staf_emal_fled {
+        padding-top: 35px;
+    }
+    /* Employee login page Css Start  */
+    .employee_details .text_32 {
+        font-size: 26px;
+        line-height: normal;
+    }
+    .employee_google_login_btn {
+        padding-top: 40px;
+    }
+    .not_registred {
+        padding: 30px 0 40px 0;
+    }
+     /* Add Question Page css start */
+
+     .about_all_content {
+        padding: 18px 24px 0 24px;
+    }
+    .about_right_side_img {
+        margin: -10px 0 27px 0;
+    }
+
+    .about_right_side_content .text_28 {
+        font-size: 18px;
+    }
+
+    .about_right_side_content .text_18 {
+        font-size: 14px;
+        padding: 30px 0 30px 0;
+    }
+
+    /* Message HR and Employee Page CSS Start*/
+    .message_dashboard_content .text_28 {
+        font-size: 20px;
+        max-width: 312px;
+    }
+    .dashboard_content_boxs {
+        padding: 46px 0;
+    }
+    .dasboard_single_box .text_48 {
+        font-size: 42px;
+        line-height: 1.3;
+    }
+    .subtittle .text_16 {
+        font-size: 15px;
+        line-height: 1.3;
+    }
+    .subtittle .text_18 {
+        font-size: 16   .791px;
+        line-height: 1.3;
+    }
+    .timmer_box {
+        padding: 25px;
+        margin-bottom: 100px;
+        max-width: 400px;
+    }
+    .timmer_box img {
+        max-width: 65px;
+    }
+    .timmer_text .text_48 {
+        font-size: 42px;
+        line-height: 1.3;
+    }
+    .message_hr_all_content {
+        padding: 38px 24px 70px 24px;
+    }
+    .sms_form {
+        padding: 80px 0 0 0;
+    }
+    .chat-attachment-btn {
+        width: 30px;
+        height: 30px;
+    }
+    /* Message HR and Employee 1.2 Page CSS Start */
+    .go_btn .go_to_home {
+        padding: 12px 15px;
+        font-size: 15px;
+        line-height: 24px; 
+    }
+    /* Overall result Page CSS Start */
+    .right_content {
+        padding: 48px 24px 80px 24px;
+    }
+    .hero_img .tittle {
+        font-size: 22px;
+        padding-top: 30px;
+    }
+    .hero_img .name {
+        font-size: 28px;
+    }
+    .hero_img .text_16{
+        display: block;
+        padding-top: 19px;
+    }
+    .left_side .left_all_content {
+        padding: 30px 24px 34px 24px;
+    }
+    /* Notify Candidate Page Css Start */
+    .notyfy_hero_img .text_30 {
+        font-size: 18px;
+    }
+    .notyfy_hero_img .text_56 {
+        font-size: 45px;
+    }
+    .notify_content .text_32 {
+        font-size: 24px;
+    }
+    .personalized_area .con {
+        font-size: 18px;
+        padding: 40px 0 35px 0;
+    }
+    .notify_bottom_area {
+        padding-top: 50px;
+    }
+}
+@media all and (max-width: 575px){
+    /* Staf login page css Start */
+    .staf_contents .text_30 {
+        font-size: 16px;
+        padding: 34px 0 19px 0;
+    }
+    .staf_contents .heading3 {
+        font-size: 23px;
+    }
+    .staf_contents .text_28 {
+        font-size: 16px;
+        padding: 19px 0 27px 0;
+    }
+    .staf_contents .text_16 {
+        font-size: 12px;
+    }
+    .staf_hero_img {
+        max-width: 211px;
+    }
+    .staf_logo {
+        max-width: 99px;
+    }
+    .staf_details .text_32 {
+        font-size: 19px;
+        line-height: 1.3;
+        padding-bottom: 13px;
+    }
+    .staf_details .text_16 {
+        font-size: 14px;
+    }
+    .staf_details {
+        padding: 30px 0 20px 0;
+    }
+    .staf_emal_fled {
+        padding-top: 26px;
+    }
+    .staf_form::before {
+        right: 15px !important;
+    }
+    .staf_form::after {
+        left: 15px !important;
+    }
+    .staf_google {
+        height: 48px !important;
+    }
+    /* Employee login page Css Start  */
+    .employee_details {
+        padding: 20px 0 30px 0;
+    }
+    .employee_details .text_32 {
+        font-size: 19px;
+        line-height: normal;
+    }
+    .employee_google_login_btn {
+        padding-top: 27px;
+    }
+    .not_registred {
+        padding: 26px 0 33px 0;
+        font-size: 14px;
+    }
+    .email_sign_up .employee_tittle::before {
+        width: 80px;
+        right: 35px;
+    }
+    .email_sign_up .employee_tittle::after {
+        width: 80px;
+        left: 35px;
+    }
+    .staf_right_content {
+        padding: 21px 24px 20px 24px;
+    }
+    /* Add Question Page css start */
+
+     .about_right_side_content .text_28 {
+        font-size: 15px;
+    }
+
+    .about_right_side_content .text_18 {
+        font-size: 12px;
+        padding: 27px 0 27px 0;
+    }
+    .single_qsn .add_tittle {
+        font-size: 16px;
+        line-height: 1.3;
+    }
+
+    .test_form {
+        padding: 22px 0 47px 0;
+    }
+    .test_form input {
+        padding: 10px 14px;
+        height: 56px;
+        font-size: 14px; 
+    }
+    /* Message HR and Employee Page CSS Start*/
+    .message_dashboard_content .text_28 {
+        font-size: 19px;
+        max-width: 312px;
+    }
+    .dasboard_single_box .text_48 {
+        font-size: 40px;
+        line-height: 1.3;
+    }
+    .subtittle .text_16 {
+        font-size: 14px;
+    }
+    .subtittle .text_18 {
+        font-size: 15px;
+    }
+    .timmer_box {
+        padding: 25px;
+        margin-bottom: 90px;
+        max-width: 312px;
+    }
+    .timmer_box img {
+        max-width: 57px;
+    }
+    .timmer_text .text_48 {
+        font-size: 34.319px;
+    }
+    .message_hr_all_content {
+        padding: 24px 24px 27px 24px;
+    }
+    .message_contents {
+        padding-top: 24px;
+    }
+    .hr_img_box {
+        width: 40px;
+        height: 40px;
+    }
+    .hr_img_box img {
+        max-width: 24px;
+    }
+    .coustomer_img_box img {
+        max-width: 40px;
+    }
+    .message_contnet .single_sms {
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+    .sms_form {
+        padding: 26px 0 0 0;
+    }
+    .chat-attachment-btn {
+        width: 21px;
+        height: 21px;
+        margin: 0px 10px 0 10px;
+    }
+    .emoji-btn img {
+        width: 10px;
+    }
+    .chat-input {
+        font-size: 12px;
+    }
+    .chat-send-btn {
+        height: 28px;
+        font-size: 12px;
+    }
+    .chat-input-wrapper {
+        height: 50px;
+    }
+    /* Cancel Interview Page CSS */
+    .modal-content {
+        padding: 11px 36px 40px 35px;
+    }
+    .what_icon {
+        width: 90px;
+        height: 90px;
+    }
+    .what_icon img {
+        max-width: 29px;
+    }
+    .modal-content .text_28 {
+        font-size: 16px;
+        line-height: 15.406px;
+        padding: 18px 0;
+    }
+    .modal-content .text_20 {
+        font-size: 11px;
+        line-height: 13.774px;
+    }
+    .modal_btns {
+        gap: 15px;
+        padding: 32px 0 20px 0;
+    }
+    .modal_btns .modal_btn {
+        font-size: 11px;
+        line-height: 13.774px;
+        max-width: 118px;
+    }
+
+
+    /* Message HR and Employee 1.2 Page CSS Start */
+    .thanks_message {
+        max-width: 270px;
+        padding: 13px 8px;
+        font-size: 14px;
+        line-height: 24px;
+        margin-left: 52px;
+    }
+    .end_message .text_16 {
+        font-size: 14px;
+        padding: 28px 0 50px 0;
+    }
+    .end_message .end_text::after {
+        width: 30%;
+        top: 41%;
+    }
+    .end_message .end_text::before {
+        width: 30%;
+        top: 41%;
+    }
+    .go_btn .go_to_home {
+        padding: 10px 10px;
+        font-size: 14px;
+        line-height: 24px; 
+        margin-bottom: 20px;
+    }
+    /* Overall result Page CSS Start */
+    .hero_img .tittle {
+        font-size: 18px;
+    }
+    .hero_img .name {
+        font-size: 35px;
+        padding-top: 19px;
+    }
+    .qualified_btns {
+        padding: 5px 0 0 0;
+    }
+    .left_side .left_all_content {
+        padding: 30px 24px 60px 24px;
+    }
+    .overall_content {
+        gap: 35px;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 10px 0 46px 0;
+    }
+    .excellent_header_left .text_32 {
+        font-size: 24px;
+        line-height: 1.3;
+    }
+    /* Notify Candidate Page Css Start */
+
+    .notyfy_hero_img .text_56 {
+        font-size: 40px;
+    }
+    .notify_content .text_32 {
+        font-size: 20px;
+    }
+    .notify_content .text_14 {
+        font-size: 12px;
+        padding-top: 20px;
+    }
+    .personalized_tittle .text_20 {
+        font-size: 18px;
+    }
+    .personalized_area .con {
+        font-size: 17px;
+        padding: 30px 0;
+    }
+    .contact_info {
+        gap: 22px;
+        flex-direction: column;
+    }
+    .contact_info .single_info {
+        max-width: 100%;
+        width: 100%;
+    }
+    .notify_bottom_area {
+        padding-top: 30px;
+    }
+}
+@media all and (max-width: 450px){
+    /* Employee login page Css Start  */
+    .email_sign_up .employee_tittle::before {
+        width: 65px;
+        right: 10px;
+    }
+    .email_sign_up .employee_tittle::after {
+        width: 65px;
+        left: 10px;
+    }
+    /* Message HR and Employee Page CSS Start*/
+    .chat-input-wrapper {
+        max-width: 330px;
+    }
+    .chat-attachment-btn {
+        margin: 0px 5px 0 5px;
+    }
+    .input-wrapper {
+        padding: 0 6px 0 6px;
+    }
+    .emoji-btn {
+        gap: 6px;
+        padding-right: 6px;
+    }
+    /* Overall result Page CSS Start */
+    .hero_img .tittle {
+        font-size: 16px;
+    }
+    .hero_img .name {
+        font-size: 23px;
+    }
+    .excellent_header_left .text_32 {
+        font-size: 21px;
+    }
+    .excellent_area .text_14 {
+        font-size: 12px;
+        line-height: 20px;
+        padding-top: 21px;
+    }
+    .hero_img {
+        max-width: 210px;
+        padding: 35px 0 30px 0;
+    }
+    .single_chat_history {
+        flex-direction: column;
+    }
+    .history_date_time {
+        gap: 10px;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    .history_left_con .text_14 {
+        padding-top: 16px;
+    }
+    /* Notify Candidate Page Css Start */
+    .notyfy_hero_img .text_30 {
+        font-size: 16px;
+    }
+    .notyfy_hero_img .text_56 {
+        font-size: 34px;
+    }
+    .top_shape {
+        max-width: 138px;
+        top: 18%;
+        right: 10%;
+    }
+    .notify_content .text_32 {
+        font-size: 16px;
+    }
+    .personalized_tittle .text_20 {
+        font-size: 16px;
+    }
+    .personalized_tittle {
+        padding-bottom: 20px;
+    }
+    .personalized_text {
+        padding: 10px 20px;
+    }
+    .personalized_text .text_14 {
+        font-size: 12px;
+        max-width: 100%;
+    }
+    .personalized_area .con {
+        font-size: 16px;
+        padding: 22px 0;
+    }
+    .notify_bottom_area {
+        padding-top: 22px;
+        flex-direction: column;
+    }
+}
