@@ -380,8 +380,8 @@
 		line-height: 22px;
 	}
 	.wonderful_box {
-		width: 140px;
-		height: 170px;
+		width: 183px;
+		height: 214px;
 		left: 0%;
 	}
 	.wonderful_box a {
@@ -391,8 +391,8 @@
 		margin-bottom: 22px;
 	}
 	.layna_single_box_item {
-		width: 100px;
-		height: 110px;
+		width: 130px;
+		height: 140px;
 	}
 	.layna_single_box_item .text_18 {
 		padding-top: 13px;
@@ -815,18 +815,19 @@
 		font-size: 25px;
 	}
 	.layna_single_box_item {
-		width: 84px;
-		height: 84px;
+		width: 120px;
+		height: 120px;
 	}
 	.layna_single_box_item .text_18 {
 		font-size: 14px;
+		line-height: 15px;
 	}
 	.layna_single_box_item {
 		margin-bottom: 16px;
 	}
 	.wonderful_box {
-		width: 120px;
-		height: 130px;
+		width: 159px;
+		height: 160px;
 		bottom: 90px;
 	}
 	.wonderful_box .text_24 {
